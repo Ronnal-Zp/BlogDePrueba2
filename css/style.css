@@ -12,3 +12,18 @@
 .bold{
     font-weight: bold;
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+body{
+    margin: 0;
+}
