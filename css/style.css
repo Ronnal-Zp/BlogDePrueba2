@@ -4,6 +4,13 @@
     font-size: 60px;
 }
 
+.header{
+    border: 5px solid black;
+    box-shadow: 2px 2px 7px black;
+    height: 70px;
+}
+    
+
 .parrafo{
     color: darkslategray;
     font-size: 25px;
